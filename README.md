@@ -2,9 +2,7 @@
 
 - 👩🏾‍💻 Currently I am working as a Software Engineer in a reputed MNC.
 
-- 🔭 I'm a Cloud and DevOps Enthusiast.
-
-- 🤔 I’m interested in DevOps || DevOps Tools || Cloud Computing ||
+- 🤔 I’m interested in DevOps || DevOps Tools || Cloud Computing || 🔭
 
 - 🌱 I’m currently learning Ansible || Ansible Tower || Amazon Web Services ||
 
