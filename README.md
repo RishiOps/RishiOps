@@ -20,9 +20,9 @@ Passionate and keen to learn about new technologies.
        
 - 👀 Find me around the web 🌎:
 * LinkedIn Profile - www.linkedin.com/in/rishikeshsonawane88ba3a14b
-* Medium Profile - https://medium.com/ 
+* Medium Profile - https://medium.com/@rishikesh.s7711
 * Youtube Channel - https://www.youtube.com/@guysinthecloud
-* Github - https://github.com/
+* Github - https://github.com/RishiOps
 
 - 🥅 2023 Goals: Skill up in existing skills & learn more cloud & related tools and service, Contribute more to the community by sharing & writing blogs regularly.
 
